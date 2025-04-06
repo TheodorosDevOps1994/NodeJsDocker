@@ -10,3 +10,8 @@ And the container appears on Docker Desktop
 
 ![docker2](https://github.com/user-attachments/assets/de409c43-6bc5-4017-923f-50826b61ca72)
 
+
+The commands run:
+npm install
+docker build .
+docker run -p 3000:3000 d2cc7b04
